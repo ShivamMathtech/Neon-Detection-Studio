@@ -1,0 +1,8 @@
+{
+  "model": "YOLOv8n",
+  "task": "general COCO object detection",
+  "source": "https://github.com/ultralytics/assets/releases/download/v8.3.0/yolov8n.pt",
+  "sha256": "f59b3d833e2ff32e194b5bb8e08d211dc7c5bdf144b90d2c8412c47ccfc83b36",
+  "bytes": 6549796,
+  "tested_ultralytics_version": "8.3.40"
+}
