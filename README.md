@@ -3,7 +3,7 @@
 A local, uploaded-image and uploaded-video **general object detection** application. The dashboard follows the supplied reference's navy background, blue panel borders, green detection overlays, central media viewer, side panels and bottom analytics row. This is the agreed detection-only adaptation, not an exact implementation of the reference's tracking modules.
 
 **Included:** complete Python backend, HTML/CSS/JavaScript frontend, pretrained YOLOv8n COCO weights, Windows/Linux launchers, real inference tests, and setup documentation. No frontend build, Node.js, database server, paid API or CUDA GPU is required. Python packages require internet on first installation. The included model runs locally after installation.
-
+![image](dashbord.png)
 ## Windows quick start
 
 1. Install **64-bit Python 3.11** (with the Python launcher). Python 3.13/3.14 are not supported by this pinned environment.
